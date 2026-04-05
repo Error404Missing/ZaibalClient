@@ -1,9 +1,9 @@
 {
-  "appTitle": "ZaibalClient v1.0.0",
+  "appTitle": "ZaibalClient v1.0.1",
   "welcomeTitle": "კეთილი იყოს შენი მობრძანება ZaibalClient-ში!",
   "welcomeText": "ეს არის საუკეთესო ქართული Minecraft კლიენტი, რომელიც გთავაზობთ მაქსიმალურ FPS-ს, ულამაზეს დიზაინს და სწრაფ განახლებებს. მხარდაჭერილია როგორც Cracked, ასევე Premium ანგარიშები.",
   "discordUrl": "https://discord.gg/zaibal",
-  "siteUrl": "https://zaibal.ge",
+  "siteUrl": "https://zaibalclient.netlify.app/",
   "versions": [
     "1.21.11",
     "1.21.8",
